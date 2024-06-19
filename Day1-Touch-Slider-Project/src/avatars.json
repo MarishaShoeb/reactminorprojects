@@ -1,0 +1,40 @@
+{
+    "avatars": [
+        {
+            "id": "0",
+            "imageURL": "https://images.immediate.co.uk/production/volatile/sites/3/2023/08/2023.06.28-06.20-boundingintocomics-649c79f009cdf-Cropped-8d74232.png?quality=90&resize=556,370",
+            "name": "Son Goku",
+            "description": "Son Goku (孫悟空, Son Gokū) is depicted as immensely strong, pure of heart, and extremely competitive, but dedicated to defending his adopted home Earth from internal or external threats."
+        },
+        {
+            "id": "1",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGRy65hXfrikkm8bzUskT-HbeIlhikt2FT7OJHaaSQhOru5md2_gtcCU5JdyUMCDlsGM&usqp=CAU",
+            "name": "Bulma",
+            "description": "Bulma (ブルマ, Buruma) first appears as a teenager using the Dragon Radar, a fictional device she created to detect the energy signal emitted by Dragon Balls."
+        },
+        {
+            "id": "2",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhp8zgMraBwUkp_jD3KCenO2bcuEDE0kA9QjyUEd9BwOxTwIk4_qFzcSHko4v5FImWwA&usqp=CAU",
+            "name": "Krillin",
+            "description": "Krillin (クリリン, Kuririn) is a bald martial artist and one of Goku's best friends and classmates. He and Goku are under the tutelage of Master Roshi;[ch. 28] initially his rival but later a friend, and a loyal companion in adventures thereafter."
+        },
+        {
+            "id": "3",
+            "imageURL": "https://i.pinimg.com/564x/9d/9e/bc/9d9ebc588763f577af11defbebf5dfb2.jpg",
+            "name": "Piccolo",
+            "description": "Piccolo (ピッコロ, Pikkoro) is the spawn of King Piccolo, created to get revenge on Goku in the wake of his death, and subsequently assumes the role as the evil half of Kami."
+        },
+        {
+            "id": "4",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHq2Cugk0_U50DQQbwKy5ZzAQjGV4cW-QDLrwenepvZQ4posLUkcvnEOg40PYc_jQTp_E&usqp=CAU",
+            "name": "Son Gohan",
+            "description": "Son Gohan (孫悟飯) is Goku's eldest son with Chi-Chi, who first appears at the age of four.[ch. 196] He is kidnapped by Goku's brother, Raditz, and locked up in a space pod."
+        },
+        {
+            "id": "5",
+            "imageURL": "https://static1.srcdn.com/wordpress/wp-content/uploads/2016/09/Future-Trunks-meets-Goku.jpg",
+            "name": "Trunks",
+            "description": "Trunks (トランクス, Torankusu) first appears as a mysterious young man who easily defeats Frieza and his father King Cold prior to Goku's return to Earth from Planet Namek."
+        }
+    ]
+}
